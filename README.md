@@ -1,1 +1,1 @@
-# OpenTelemtry-With-Grafana-Prometheus-Jaeger
+# OpenTelemetry-With-Grafana-Prometheus-Jaeger
